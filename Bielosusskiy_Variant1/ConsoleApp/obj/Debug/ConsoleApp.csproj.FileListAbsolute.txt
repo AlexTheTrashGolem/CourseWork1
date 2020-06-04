@@ -1,0 +1,9 @@
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\Bielosusskiy_Variant1\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\Bielosusskiy_Variant1\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\Bielosusskiy_Variant1\ConsoleApp\bin\Debug\Restaurant.dll
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\Bielosusskiy_Variant1\ConsoleApp\bin\Debug\Restaurant.pdb
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\Bielosusskiy_Variant1\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\Bielosusskiy_Variant1\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\Bielosusskiy_Variant1\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\Bielosusskiy_Variant1\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\Bielosusskiy_Variant1\ConsoleApp\obj\Debug\ConsoleApp.pdb

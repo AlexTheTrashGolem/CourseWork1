@@ -1,0 +1,6 @@
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\Bielosusskiy_Variant1\Restaurant\bin\Debug\Restaurant.dll
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\Bielosusskiy_Variant1\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\Bielosusskiy_Variant1\Restaurant\obj\Debug\Restaurant.csprojAssemblyReference.cache
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\Bielosusskiy_Variant1\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\Bielosusskiy_Variant1\Restaurant\obj\Debug\Restaurant.dll
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\Bielosusskiy_Variant1\Restaurant\obj\Debug\Restaurant.pdb
